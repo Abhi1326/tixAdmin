@@ -1,0 +1,71 @@
+
+.custom_card h3 {
+    color: white;
+    text-align: center;
+    font-size: 32px;
+    font-weight: 400;
+    letter-spacing: 1.5px;
+    margin-top: -19px;
+    margin-bottom: 7px;
+}
+
+.card_text p {
+    text-align: center;
+    margin-top: -19px;
+    line-height: 20px;
+    color: #f7f7f7;
+    letter-spacing: 0.5px;
+}
+
+.card_title h2 {
+    font-size: 18px;
+    font-weight: 500;
+    letter-spacing: 1px;
+    text-align: center;
+    width: 100%;
+    text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.4);
+    text-transform: uppercase;
+}
+
+.card_value h3 {
+
+}
+
+.main {
+    width: 100%;
+    margin-bottom: 14px;
+    min-height: 250px;
+    margin-top: 5px;
+    background-color: white;
+    box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.4);
+}
+
+.display_text {
+    text-align: center;
+    font-size: 15px;
+    padding: 46px;
+}
+
+.display_number {
+    font-size: 28px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.custom_card1 {
+    background-color: #446f95;
+}
+
+.custom_card1:hover {
+    box-shadow: 6px 7px 4px #888888;
+    background-color: #5c88af;
+    cursor: pointer;
+}
+
+.font_icon {
+    font-size: 35px;
+    color: #87b6cc;
+}
+
+.row_hover {
+    cursor: pointer;
+}

@@ -1,0 +1,35 @@
+.theatre_report {
+    width: 100%;
+    margin-bottom: 14px;
+    margin-top: 5px;
+    background-color: white;
+    box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.4);
+}
+
+.detail_btn {
+    width: 100%;
+    text-align: right;
+    margin: 9px -30px;
+}
+
+.detail_btn button {
+    margin-bottom: 20px;
+}
+
+.custom_button {
+    text-align: right
+}
+
+.float_right {
+    text-align: right;
+    width: 100%;
+    margin: 10px 0px;
+}
+
+#theatre_table {
+    margin-left: 10px;
+}
+
+.margin_left_15 {
+    margin-left: 15px;
+}

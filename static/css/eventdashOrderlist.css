@@ -1,0 +1,127 @@
+
+.custom_card h3 {
+    color: white;
+    text-align: center;
+    font-size: 32px;
+    font-weight: 400;
+    letter-spacing: 1.5px;
+    margin-top: -19px;
+    margin-bottom: 7px;
+}
+
+.card_text p {
+    text-align: center;
+    margin-top: -19px;
+    line-height: 20px;
+    color: #f7f7f7;
+    letter-spacing: 0.5px;
+}
+
+.card_title h2 {
+    font-size: 18px;
+    font-weight: 500;
+    margin-top: 10px;
+    letter-spacing: 1px;
+    text-align: left;
+    width: 100%;
+    text-transform: uppercase;
+}
+
+.card_value h3 {
+
+}
+
+.main {
+    width: 100%;
+    margin-bottom: 14px;
+    min-height: 250px;
+    margin-top: 5px;
+    background-color: white;
+}
+
+.display_text {
+    text-align: center;
+    font-size: 15px;
+    padding: 46px;
+}
+
+.display_number {
+    font-size: 39px;
+    font-family: 'Source Sans Pro', sans-serif;
+    margin: 0 auto;
+    display: table;
+}
+
+.custom_card11 {
+    background: linear-gradient(cornflowerblue, #345482);
+    float: left;
+}
+
+.custom_card11:hover {
+    box-shadow: 6px 7px 4px #888888;
+    background: linear-gradient(#7293d0, #4873b3);
+    background: -webkit-linear-gradient(#7293d0, #4873b3); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(#7293d0, #4873b3); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(#7293d0, #4873b3); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(cornflowerblue, #213450);
+    -webkit-transition: background 1000ms linear;
+    -ms-transition: background 1000ms linear;
+    transition: background 1000ms linear;
+
+}
+
+.custom_card22 {
+    background-color: #e47359;
+    float: left;
+}
+
+.custom_card22:hover {
+    box-shadow: 6px 7px 4px #888888;
+    background-color: rgba(89, 163, 228, 0.82);
+    cursor: pointer;
+}
+
+.custom_card33 {
+    background-color: #8675bd;
+    float: left;
+}
+
+.custom_card33:hover {
+    box-shadow: 6px 7px 4px #888888;
+    background-color: rgba(89, 163, 228, 0.82);
+    cursor: pointer;
+}
+
+.font_icon {
+    font-size: 35px;
+    color: #87b6cc;
+}
+
+.row_hover {
+    cursor: pointer;
+}
+
+.card_title_heading {
+    background: rgba(185, 190, 193, 0.22);
+}
+
+.card_title_heading1 h2 {
+    font-size: 18px;
+    font-weight: 500;
+    margin-top: 10px;
+    letter-spacing: 1px;
+    text-align: center;
+    width: 100%;
+    text-transform: uppercase;
+
+}
+
+.btn_export2 {
+
+    margin-left: 14px;
+}
+
+.btn_export1 {
+
+    margin-left: 14px;
+}

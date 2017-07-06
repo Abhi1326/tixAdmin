@@ -1,0 +1,88 @@
+.md-data-table--responsive{
+    overflow-x: inherit ;
+}
+.badge_report {
+    width: 100%;
+    margin-bottom: 14px;
+    margin-top: 5px;
+    background-color: white;
+    box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.4);
+}
+
+.detail_btn {
+    width: 100%;
+    text-align: right;
+    margin: 9px -4%;
+}
+
+.detail_btn button {
+    margin-bottom: 20px;
+}
+
+.pagenation {
+    float: right;
+    margin-right: 20px;
+}
+
+.filter_btn {
+    margin: 33px 0px 0px 15px;
+}
+
+.file_link {
+    float: left;
+    margin-top: 20px;
+}
+
+.file_link span {
+    font-weight: 500;
+}
+
+.file_name {
+    font-size: 13px;
+    opacity: 0.6;
+    padding-left: 6px;
+}
+
+.drop_zone_text {
+    font-size: 14px;
+    font-weight: 400;
+    text-align: center;
+    margin-top: 78px;
+    color: rgba(93, 85, 85, 0.73);
+    letter-spacing: 0.5px;
+}
+
+.fields {
+    border: 0;
+    margin-left: -17px
+}
+
+.custom_toastr {
+    width: 60%;
+    margin-top: 64px;
+    height: 77px;
+}
+
+#batchWise_report_table {
+    margin-left: 10px;
+}
+
+.amount_type {
+    margin-left: 15px;
+
+}
+
+.status_filter {
+    margin-left: 15px;
+
+}
+.paid_text{
+    color: rgb(3, 169, 244);
+    font-size: 14px;
+    font-weight: 500;
+    padding: 2px 28px 0 28px;
+    letter-spacing: 0.5px;
+}
+.bank_menu ul{
+    overflow: hidden;
+}

@@ -1,0 +1,71 @@
+
+html {
+    background: rgba(223,226,226,0.7);
+}
+
+.main_div{
+    height: 550px;
+    display: table;
+    margin: 50px auto;
+    width: 350px;
+    box-shadow: 0px 24px 100px -18px rgba(0,0,0,0.7)
+
+}
+.main_div .upper_div{
+    height:275px;
+    background-color: #357ce2;
+
+}
+
+.main_div .upper_div .home_icon{
+    padding: 120px 0;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.main_div .lower_div{
+    height: 275px;
+}
+
+.main_div .lower_div .login_div{
+    margin: -60px 30px 0 30px;
+    border-radius: 5px;
+    padding: 5px 15px;
+    background-color: #fff;
+    box-shadow: 0px 24px 100px -18px rgba(0,0,0,0.7);
+}
+
+.main_div .lower_div .login_div .login_txt{
+    text-align: center;
+    padding: 12px 10px 0 10px;
+    color: #575757;
+    font-weight: 500;
+    font-size: 14px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.main_div .lower_div .login_div .info{
+    text-align: center;
+    line-height: 20px;
+    font-size: 12px;
+    color: #5a5a5a;
+    letter-spacing: 0.4px;
+}
+
+.main_div .lower_div .login_div .login_form .submit_btn {
+    background-color: #357ce2;
+    width: 185px;
+    height: 45px;
+    border-radius: 22px;
+    color: white;
+    outline: none;
+    border: none;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+    margin-bottom: -25px;
+    margin-top: 15px;
+}
+

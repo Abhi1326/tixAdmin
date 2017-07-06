@@ -1,0 +1,30 @@
+.progress-bar .progress-bar-aqua {
+    width: 20%;
+}
+
+.progress-bar .progress-bar-green {
+    width: 40%;
+}
+
+.progress-bar .progress-bar-red {
+    width: 60%;
+}
+
+.progress-bar .progress-bar-yellow {
+    width: 80%;
+}
+
+.skin-blue .main-header .navbar {
+    background-color: #395d71;
+}
+
+.logo img.img {
+    height: 40px;
+}
+
+.navbar-custom-menu > .navbar-nav > li > .dropdown-menu {
+    position: absolute;
+    right: 0px;
+    left: auto;
+    box-shadow: 0 6px 12px rgba(0, 0, 0, .175);
+}

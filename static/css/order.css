@@ -1,0 +1,70 @@
+.page {
+    margin: 0 auto;
+    display: table;
+}
+
+.table-head {
+    font-size: 14px;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+    color: #444;
+}
+
+.custom_adjust {
+    margin: -25px 0 0 10px;
+
+}
+
+.search, .search:focus {
+    outline: none;
+    border: none;
+    border-bottom: 1px solid #ddd;
+}
+
+.btnChange {
+    margin: 0 0 0 42px;
+}
+
+.adjustIcon {
+
+    margin: 5px 0px 0px -24px;
+    display: block;
+    z-index: 9;
+    cursor: pointer;
+}
+
+/*.wdata {*/
+    /*text-shadow: 2px 3px 6px black;*/
+/*}*/
+
+.chip_list {
+    margin: 0px;
+}
+
+.page_view {
+    float: right;
+    margin: -5px;
+}
+
+.search_sec {
+    font-size: 14px;
+    margin-left: 15px;
+}
+
+.order_table {
+    margin-left: 10px;
+}
+
+.adjust_column {
+    min-width: 155px;
+    max-width: 200px;
+    white-space: normal !important;
+}
+.filter_sec {
+    margin-left: 18px;
+    font-size: 14px;
+    margin-top:10px
+}
+body{
+    overflow-x: hidden;
+ }

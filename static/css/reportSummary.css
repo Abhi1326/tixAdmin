@@ -1,0 +1,22 @@
+
+.report_summary {
+    width: 100%;
+    margin-bottom: 14px;
+    margin-top: 5px;
+    background-color: white;
+    box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.4);
+}
+
+.detail_btn {
+    width: 100%;
+    text-align: right;
+    margin: 9px -4%;
+}
+
+.detail_btn button {
+    margin-bottom: 20px;
+}
+
+#report_table {
+    margin-left: 10px;
+}

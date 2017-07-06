@@ -1,0 +1,82 @@
+.payment_status {
+    width: 100%;
+    margin-bottom: 14px;
+    margin-top: 5px;
+    background-color: white;
+    box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.4);
+}
+
+.pagenation {
+    float: right;
+    margin-right: 20px;
+}
+
+.search_btn {
+    margin: 22px 0 0 15px;
+}
+
+.loader {
+    top: 0;
+    left: 0;
+    z-index: 2000;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    background: rgba(0, 0, 0, 0.5);
+}
+
+#speedBoostDescription span.report_heading {
+    font-size: 14px;
+    color: #545454;
+    display: inline-block;
+    text-align: right;
+    padding-right: 20px;
+    min-width: 200px;
+
+}
+
+#speedBoostDescription span.report_value {
+    font-size: 14px;
+    color: #2b2a2a;
+    display: inline-block;
+    text-align: left;
+    padding-right: 20px;
+    min-width: 250px;
+
+}
+
+#speedBoostDescription p {
+    width: 100%;
+    text-align: center;
+    overflow: auto;
+    overflow-x: hidden;
+    overflow-y: hidden;
+
+}
+
+.fields {
+    border: 0;
+    margin-left: -17px
+}
+
+.payment_filters {
+    margin-left: 15px;
+}
+
+.payment_table {
+    margin-left: 10px;
+}
+
+.adjust_column {
+    min-width: 155px;
+    max-width: 200px;
+    white-space: normal;
+}
+
+.amount_type {
+    margin-left: 15px;
+
+}
+.filter_btn {
+    margin: 33px 0px 0px 23px;
+}

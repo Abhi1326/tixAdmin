@@ -1,0 +1,71 @@
+.table-head {
+    font-size: 14px;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+    color: #444;
+}
+
+.custom_adjust {
+    margin: -25px 0 0 10px;
+
+}
+
+.search, .search:focus {
+    outline: none;
+    border: none;
+    border-bottom: 1px solid #ddd;
+}
+
+.btnChange {
+    margin: 0 0 0 42px;
+}
+
+/*.wdata {*/
+    /*text-shadow: 2px 3px 6px black;*/
+/*}*/
+
+.loader {
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 2000;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    background: rgba(0, 0, 0, 0.7);
+}
+
+.search_sec {
+    margin-left: 18px;
+    font-size: 14px;
+}
+
+::-webkit-input-placeholder { /* WebKit, Blink, Edge */
+    color: #777797;
+    font-size: 14px;
+
+}
+
+.theatre_table {
+    margin-left: 10px;
+}
+.fields {
+    border: 0;
+    margin-left: -17px
+}
+.payment_filters {
+    margin-left: 15px;
+    padding: 0;
+}
+
+.adjust_column {
+    min-width: 155px;
+    max-width: 200px;
+    white-space: normal !important;
+}
+
+.fiter_sec {
+    margin-left: 18px;
+    font-size: 14px;
+    margin-top:10px
+}

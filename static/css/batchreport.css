@@ -1,0 +1,33 @@
+
+.batch_report {
+    width: 100%;
+    margin-bottom: 14px;
+    margin-top: 5px;
+    background-color: white;
+    box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.4);
+}
+
+.detail_btn {
+    width: 100%;
+    text-align: right;
+    margin: 9px -4%;
+}
+
+.detail_btn button {
+    margin-bottom: 20px;
+}
+
+.pagenation {
+    float: right;
+    margin-right: 20px;
+}
+
+#batch_report_table {
+    margin-left: 10px;
+}
+.paid_text{
+    color: rgb(3, 169, 244);
+    font-size: 14px;
+    font-weight: 500;
+    letter-spacing: 0.5px;
+}

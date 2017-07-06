@@ -1,0 +1,12 @@
+# To build the image and container
+    sudo docker build -t tixdoadmin/ubuntusshd:snapshot .
+    sudo docker run -d -P --name tixadmin tixdoadmin/ubuntusshd:snapshot
+
+# To stop the container
+    sudo docker stop tixadmin
+
+# To remove the container
+    sudo docker rm tixadmin
+
+# To view the container
+    sudo docker ps
